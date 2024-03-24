@@ -1,4 +1,4 @@
-import { AliceAvatar } from "talkinghead";
+import { AliceAvatar } from "aliceavatar";
 let head;
 let socket;
 let subtitle = document.getElementById("subtitle");
