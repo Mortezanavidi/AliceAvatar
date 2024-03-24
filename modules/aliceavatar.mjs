@@ -9,7 +9,7 @@ import Stats from 'three/addons/libs/stats.module.js';
 import { LipsyncEn } from './lipsync-en.mjs';
 
 /**
-* @class Talking Head
+* @class AliceAvatar
 * @author Morteza Navidi
 */
 class AliceAvatar {
